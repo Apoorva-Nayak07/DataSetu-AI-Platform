@@ -10,24 +10,21 @@ database/   schema.sql, SQLite app.db (created on first run), samples/ (sales_sa
 
 ## 🎬 Demo Video
 
-<p align="center">
+<div align="center">
 
 <a href="https://drive.google.com/file/d/1s9QNsVT_GCTQUYOkMA7c-8Q40N42Bz3r/view?usp=drivesdk">
-  <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo">
+
+<img src="YOUR_GIF_OR_PREVIEW_URL" width="850" alt="DataSetu AI Demo">
+
 </a>
 
-</p>
+<br><br>
+
+### ▶️ Click the preview to watch the full demo
 
 **DataSetu AI — Intelligent Data Analysis & Decision Support Platform**
 
-The demo showcases:
-
-- 📂 Dataset upload and exploration
-- 📊 Interactive data visualization
-- 🤖 AI-powered data analysis
-- 🔍 Data quality and anomaly detection
-- 📑 Automated reporting
-- 💾 Saved analyses and history
+</div>
 
 ## Run
 **Docker:** `docker compose up --build` → http://localhost:8000

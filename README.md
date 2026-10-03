@@ -8,6 +8,22 @@ backend/    FastAPI: upload/validation, chat (+streaming), analysis engine, auth
 database/   schema.sql, SQLite app.db (created on first run), samples/ (sales_sample.csv, customers_sample.csv)
 ```
 
+## 🎬 Demo Video
+
+> 🚀 **See DataSetu AI in action**
+
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1s9QNsVT_GCTQUYOkMA7c-8Q40N42Bz3r/view?usp=drivesdk)
+
+**DataSetu AI — Intelligent Data Analysis & Decision Support Platform**
+
+The demo showcases:
+- 📂 Dataset upload and exploration
+- 📊 Interactive data visualization
+- 🤖 AI-powered data analysis
+- 🔍 Data quality and anomaly detection
+- 📑 Automated reporting
+- 💾 Saved analyses and history
+
 ## Run
 **Docker:** `docker compose up --build` → http://localhost:8000
 **Dev:** `pip install -r backend/requirements.txt && uvicorn main:app --app-dir backend --port 8000`, then `cd frontend && npm install && npm run dev` → http://localhost:5173
